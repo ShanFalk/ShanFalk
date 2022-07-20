@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width=400 src=https://user-images.githubusercontent.com/99137811/180051038-54f51c15-caa3-422a-bdda-b5dceae0392a.jpg alt='honey and lemon' />
-
+<img src=https://user-images.githubusercontent.com/99137811/180052602-146230af-0457-4494-bac7-0bf8f7897e21.jpg alt='honey and lemon' />
