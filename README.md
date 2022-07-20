@@ -5,7 +5,6 @@
 <hr></hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanfalk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanfalk&radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3>Languages & Tools</h3>
@@ -23,3 +22,6 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&amp;logo=Sequelize&amp;logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanfalk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
