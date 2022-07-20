@@ -2,7 +2,10 @@
 <h1 align=center >Hi! I'm Shannon 👩🏼‍💻</h1>
 <p align=center ><strong>Full-Stack Software Engineer | Craftmaker | Loves a good cup of tea</strong></p>
 
+<hr></hr>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanfalk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3>Languages & Tools</h3>
 
