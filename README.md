@@ -2,6 +2,8 @@
 <h1 align=center >Hi! I'm Shannon 👩🏼‍💻</h1>
 <p align=center ><strong>Full-Stack Software Engineer | Craftmaker | Loves a good cup of tea</strong></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanfalk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Languages & Tools</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
