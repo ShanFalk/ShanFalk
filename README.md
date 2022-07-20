@@ -5,8 +5,9 @@
 <a href=https://www.linkedin.com/in/shannon-falk-16097a83/>
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
 </a>
+<a href= https://angel.co/u/shannon-falk>
+  <img src=https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&amp;logo=AngelList&amp;logoColor=black
 </div>
-
 
 <hr></hr>
 
