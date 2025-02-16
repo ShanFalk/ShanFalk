@@ -9,7 +9,7 @@
 
 <hr></hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanfalk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanfalk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <h3>Languages & Tools</h3>
